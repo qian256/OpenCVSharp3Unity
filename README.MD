@@ -1,6 +1,6 @@
 OpenCVSharp 3 in Unity Example
 ===
-Author: Long Qian
+Author: [Long Qian](http://longqian.me/aboutme/)
 
 Date: 2016-06-07
 
